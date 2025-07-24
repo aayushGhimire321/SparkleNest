@@ -246,3 +246,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **✨ SparkleNest - Where beauty meets technology ✨**
+#   S p a r k l e N e s t  
+ 
